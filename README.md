@@ -1,6 +1,6 @@
 # Audiotosign
 
-#Tech used
+# Tech used
 Python
 Flask
 Javascript
@@ -9,7 +9,7 @@ Nltk
 Stanford Parser
 SIGML
 
-#Installation
+# Installation
 This project needs flask and python to run.
 Install the dependencies and start the server.
 
