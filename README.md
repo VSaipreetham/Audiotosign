@@ -1,6 +1,6 @@
 # Audiotosign
 
-Tech used
+#Tech used
 Python
 Flask
 Javascript
@@ -8,13 +8,14 @@ Stanza
 Nltk
 Stanford Parser
 SIGML
-Installation
-This project needs flask and python to run.
 
+#Installation
+This project needs flask and python to run.
 Install the dependencies and start the server.
 
 pip install -r requirements.txt
 python main.py
+
 After running main.py stanford parser will be downloaded you may run into some errors related to classpath of java, google them they shouldn't be so hard to fix Open the browser and go to http://127.0.0.1:5000/ and see the project in action.
 
 NOTE
