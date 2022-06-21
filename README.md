@@ -17,7 +17,7 @@ python main.py
 
 After running main.py stanford parser will be downloaded you may run into some errors related to classpath of java, google them they shouldn't be so hard to fix Open the browser and go to http://127.0.0.1:5000/ and see the project in action.
 
-# Starting server
+# Starting CORE NLP server
 command : java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
 
 
